@@ -14,7 +14,6 @@ includes: []
 search: true
 highlight_theme: darkula
 headingLevel: 2
-
 ---
 
 <h1 id="DELING-API">DELING API v1.0.0</h1>
